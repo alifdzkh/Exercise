@@ -1,0 +1,157 @@
+.macbook-air {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.macbook-air .overlap-group-wrapper {
+    width: 1280px;
+    height: 83px;
+}
+
+.macbook-air .overlap-group {
+    position: relative;
+    height: 832px;
+    background-image: url(./Assets/6230278.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.macbook-air .text-wrapper {
+    position: absolute;
+    top: 308px;
+    left: 287px;
+    font-family: "ITF Devanagari-Bold", helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    mix-blend-mode: difference;
+}
+
+.macbook-air .div {
+    position: absolute;
+    top: 415px;
+    left: 399px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    mix-blend-mode: difference;
+}
+
+.macbook-air .text-wrapper-2 {
+    position: absolute;
+    top: 83px;
+    left: 299px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #200c18;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-3 {
+    position: absolute;
+    top: 83px;
+    left: 441px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #200c18;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .overlap {
+    position: absolute;
+    width: 77px;
+    height: 34px;
+    top: 82px;
+    left: 601px;
+    border-radius: 8px;
+}
+
+.macbook-air .text-wrapper-4 {
+    position: absolute;
+    top: 5px;
+    left: 9px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #200c18;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .rectangle {
+    position: absolute;
+    width: 77px;
+    height: 34px;
+    top: 0%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: #ffffff;
+}
+
+.macbook-air .div-wrapper {
+    position: absolute;
+    width: 160px;
+    height: 52px;
+    top: 500px;
+    left: 555px;
+    background-color: #200c18;
+    border-radius: 17px;
+}
+
+.macbook-air .text-wrapper-5 {
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-6 {
+    position: absolute;
+    top: 83px;
+    left: 754px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #200c18;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .text-wrapper-7 {
+    position: absolute;
+    top: 83px;
+    left: 893px;
+    font-family: "ITF Devanagari-Bold", Helvetica;
+    font-weight: 700;
+    color: #200c18;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.macbook-air .togle {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    top: 69px;
+    left: 1105px;
+    object-fit: cover;
+}
